@@ -6,7 +6,7 @@ n2 = float(input('Digite a nota 2: '))
 #Calcular a média
 media = (n1+n2) / 2
 #Comando condicional - iguais
-if (media >= 7):
+if (media >= 6):
     print('Aprovado! Média = ',round(media,1))
-else:
+else:boletimbole
     print('Reprovado! Média = ',round(media,1))
